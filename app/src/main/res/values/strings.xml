@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="yard_content_description">yard</string>
+    <string name="unit_prompt">unit</string>
+</resources>
